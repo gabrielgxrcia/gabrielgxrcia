@@ -20,4 +20,4 @@
 </p>  
    </div>
    
-   <p align="center" <strong> <h1>My Statistics! ⤵️ 
+ <p align="center"  <strong> <h1>>My Statistics! ⤵️ 
