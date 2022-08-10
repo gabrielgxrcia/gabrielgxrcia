@@ -8,4 +8,4 @@
 
 <div  align="center">
  <div style="display: inline_block"><br>
-  <img align="left" height="245" alt="coding-time" src="stray-coding.gif">
+  <img align="left" height="245" alt="coding-time" src="code.gif">
