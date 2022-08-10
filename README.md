@@ -14,10 +14,16 @@
 <p align="left">
   💌 if you want to contact me, below you will have my contact: ⤵️
 </p>
+  <a href="https://www.instagram.com/ggxrcia__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 
-
-  <a href="https://www.instagram.com/ggxrcia__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</p>  
-   </div>
-   
- <p align="center"  <strong> <h1>>My Statistics! ⤵️ 
+<div> 
+  <h2 align="left">My Statistics! ⤵️</h2>
+ 
+---
+  <div align="center">
+    <a href="https://github.com/rafaballerini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgxrcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgxrcia&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+</div>
