@@ -9,4 +9,3 @@
 <div  align="center">
  <div style="display: inline_block"><br>
   <img align="left" height="245" alt="coding-time" src="stray-coding.gif">
-  <div align="right"> Aprendendo! <3</h1>
