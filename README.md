@@ -24,8 +24,6 @@
   <h2 align="left"></h2>
  
   <div align="left">
-    <a href="https://github.com/rafaballerini">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielgxrcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinChavez&layout=compact&langs_count=7&theme=dracula"/>
+   ![Snake animation](https://github.com/gabrielgxrcia/gabrielgxrcia/blob/output/github-contribution-grid-snake.svg)
   </div>
 </div>
