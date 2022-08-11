@@ -1,7 +1,7 @@
 <!-- Your title -->
 ## Hi, I'm Gabriel Garcia, a Developer 🚀 from Brazil.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="285px" max-width="285px" width="285px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="310px" max-width="310px" width="310px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   <strong>Talking about Personal Stuffs:</strong><br>
@@ -26,5 +26,6 @@
   <div align="left">
     <a href="https://github.com/rafaballerini">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielgxrcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinChavez&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 </div>
