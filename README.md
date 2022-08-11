@@ -1,28 +1,30 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- Your title -->
+## Hi, I'm Gabriel Garcia, a Developer 🚀 from Brazil.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="310px" max-width="310px" width="310px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi, my name is Gabriel Garcia, <strong>i'm a system developer</strong>.<br>
-  currently studying JavaScript and CSharp!
-</p>
-
+  <strong>Talking about Personal Stuffs:</strong><br>
+  <div>• 🌱 I’m currently learning JavaScript and CSharp;
+  </div>• 💬 Ask me about anything, I am happy to help;
+  <div> • ⚡️ Fun-Fact: I'm majoring in system analysis and developer;
+  
+<p>
 <p align="left">
-  🦄 Studying: <strong><img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Rafa-Js" height="30" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   </strong>
+  • 🦄 Language and Tools: <p align="left">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+   <img title="C" alt="C" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> 
 </p>
 <div>
-<p align="left">
-  💌 if you want to contact me, below you will have my contact: ⤵️
-</p>
-  <a href="https://www.instagram.com/ggxrcia__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
 
+  </div><p align="left">
 <div> 
-  <h2 align="left">My Statistics! ⤵️</h2>
+  <h2 align="left"></h2>
  
----
   <div align="left">
     <a href="https://github.com/rafaballerini">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielgxrcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielgxrcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
 </div>
