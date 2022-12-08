@@ -5,7 +5,7 @@
 
 <p align="left"> 
   <strong>Talking about Personal Stuffs:</strong><br>
-  <div>• 🌱 I’m currently learning JavaScript and CSharp;
+  <div>• 🌱 I’m currently learning HTML & CSS and JavaScript;
   </div>• 💬 Ask me about anything, I am happy to help;
   <div> • ⚡️ Fun-Fact: I'm majoring in system analysis and developer;
   
