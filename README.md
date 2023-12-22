@@ -7,8 +7,8 @@
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
-- 👨🏻‍💻 &nbsp; Tudo começou aos 10 anos quando tive interesse em desenvolver um servidor privado de um jogo que eu amava na época, que se chama Minecraft. Foi muito difícil na época, era limitado os conteúdos, mas depois de muita pesquisa consegui finalmente deixar o servidor online. A sensação por ter conseguido foi maravilhosa, saber o quanto tinha liberdade em customizar da maneira que eu quisesse, apenas com linhas de código, me fascinava profundamente. Desde então, eu decidi isso para minha vida, eu queria ser um programador.
-- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
+- 🕹️ &nbsp; Aos 10 anos, surgiu minha paixão ao desenvolver um servidor privado de Minecraft. Superar desafios e customizar o jogo com código despertou meu fascínio pela programação.
+- 💚 &nbsp; Ao adquirir experiência, descobri a alegria de impactar positivamente as pessoas através do compartilhamento de conhecimento. Ajudar outros desenvolvedores se tornou uma motivação constante.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (Node, React) para desenvolver em ambas as frentes.
 - 🎮 &nbsp; Sou apaixonado por jogos competitivos. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça, as vezes haha!
 - 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
